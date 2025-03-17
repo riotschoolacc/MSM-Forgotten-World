@@ -1,7 +1,9 @@
+Riotlove - Game Creator
 Jasyak2 - Composer
-Sneezer - Composer and Artist
+Ustrel - Composer and Artist
+HallowTheHawlo - Additional Art
+Pyrix - Additional Art
 PyroMSM - Additional Scripting
-KrazeGames - Scripter
-Puffe - Artist
-Canpake - Rare Triturtoud concept
-Blarret the blarret - Portuguese Translation
+Puffe - Artist & Portuguese Translation
+Blarret the blarret - Additional Portuguese Translation
+KrazeGames - Additional Scripter
